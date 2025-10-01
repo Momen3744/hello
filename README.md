@@ -1,6 +1,6 @@
-| 这个作业属于哪个课程 | [(https://edu.cnblogs.com/campus/fzu/202501SoftwareEngineering) |
+| 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/fzu/202501SoftwareEngineering |
 |-------------------|-----------------|
-| 这个作业要求在哪里 | <作业要求的链接> |
+| 这个作业要求在哪里 | [<作业要求的链接>](https://edu.cnblogs.com/campus/fzu/202501SoftwareEngineering/homework/13546) |
 | 这个作业的目标     | 你理解的作业目标具体内容 |
 | 学号              | 你的学号        |
 # hello
